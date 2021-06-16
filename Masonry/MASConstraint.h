@@ -225,7 +225,7 @@
 
 @end
 
-
+#define MAS_SHORTHAND_GLOBALS
 /**
  *  Convenience auto-boxing macros for MASConstraint methods.
  *
