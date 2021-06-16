@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'Masonry_csy'
-  s.version  = '1.1.0'
+  s.version  = '1.1.1'
   s.license  = 'MIT'
   s.summary  = '移除masonry mas_前缀.'
   s.homepage = 'https://github.com/ios-xxx/Masonry'

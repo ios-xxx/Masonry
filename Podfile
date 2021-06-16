@@ -4,7 +4,7 @@ platform :ios, '8.0'
 
 project 'Examples/Masonry iOS Examples'
 target 'Masonry iOS Examples' do
-  pod 'Masonry', :path => './'
+  pod 'Masonry_csy', :path => './'
 end
 
 target 'Masonry iOS Tests' do
@@ -14,7 +14,7 @@ end
 
 target 'MasonryTestsLoader' do
   project 'Tests/Masonry Tests'
-  pod 'Masonry', :path => './'
+  pod 'Masonry_csy', :path => './'
 end
 
 # add settings needed to generate test coverage data
